@@ -1,6 +1,6 @@
 **Simple Linear Regression**
 ==============================================
 
-# Regression with one variable
+#1-Regression with one variable
 
 
