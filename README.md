@@ -1,1 +1,6 @@
-# Regression-with-one-variable
+**Simple Linear Regression**
+==============================================
+
+# Regression with one variable
+
+
