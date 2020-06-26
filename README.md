@@ -1,9 +1,11 @@
 **Simple Linear Regression**
 ==============================================
+
 # Datasets:
-50_Startups.csv
-ex1data1.txt
-ex1data2.txt
+
+*50_Startups.csv* <br />
+*ex1data1.txt* <br />
+*ex1data2.txt* <br />
 
 # 1-Regression with one variable:
 
@@ -18,6 +20,6 @@ simple_linear_regression--sklearn.ipynb
 Multivariable_Regression--python.ipynb
 
 # b/ by sklearn (exdata2 & 50_starups):
-Multiple_Linear__Regression_sklearn.ipynb
-multiple_linear_regression_50_Startups_sklearn.ipynb
+Multiple_Linear__Regression_sklearn.ipynb <br />
+multiple_linear_regression_50_Startups_sklearn.ipynb <br />
 
