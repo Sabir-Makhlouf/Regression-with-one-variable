@@ -1,5 +1,8 @@
 **Simple Linear Regression**
 ==============================================
+[My Linkedin](https://www.linkedin.com/in/sabirmakhlouf) <br />
+[My Facebook](https://www.facebook.com/MakhloufSabir) <br />
+[My twitter](https://twitter.com/Sabir_Makhlouf) <br />
 
 # Datasets:
 
@@ -14,7 +17,7 @@ Regression_with_one_variable--python.ipynb
 # b/ by sklearn:
 simple_linear_regression--sklearn.ipynb
 
-# 1-Multivariable Regression:
+# 2-Multivariable Regression:
 
 # a/ With python:
 Multivariable_Regression--python.ipynb
